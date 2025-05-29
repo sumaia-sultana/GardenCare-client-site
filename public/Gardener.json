@@ -1,0 +1,113 @@
+ 
+[
+  {
+    "id": 1,
+    "name": "Sarah Greenfield",
+    "specialty": "Organic Vegetables",
+    "experience": "5 years",
+    "location": "Portland, OR",
+    "status": "Active Gardener",
+    "image": "https://randomuser.me/api/portraits/women/32.jpg",
+    "bio": "Passionate about sustainable farming and teaching beginners.",
+    "lastActive": "2023-06-15"
+  },
+  {
+    "id": 2,
+    "name": "Michael Botanist",
+    "specialty": "Tropical Plants",
+    "experience": "8 years",
+    "location": "Miami, FL",
+    "status": "Active Gardener",
+    "image": "https://randomuser.me/api/portraits/men/75.jpg",
+    "bio": "Greenhouse expert with a love for exotic species.",
+    "lastActive": "2023-06-18"
+  },
+  {
+    "id": 3,
+    "name": "Emma Rosewater",
+    "specialty": "Flower Gardens",
+    "experience": "3 years",
+    "location": "Seattle, WA",
+    "status": "Active Gardener",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "bio": "Floral designer who believes gardens should be beautiful and functional.",
+    "lastActive": "2023-06-10"
+  },
+  {
+    "id": 4,
+    "name": "Carlos Herrera",
+    "specialty": "Urban Gardening",
+    "experience": "6 years",
+    "location": "New York, NY",
+    "status": "Active Gardener",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "bio": "Transforming small spaces into productive gardens since 2018.",
+    "lastActive": "2023-06-20"
+  },
+  {
+    "id": 5,
+    "name": "Aisha Thompson",
+    "specialty": "Permaculture",
+    "experience": "10 years",
+    "location": "Austin, TX",
+    "status": "Active Gardener",
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "bio": "Sustainable farming advocate and community garden organizer.",
+    "lastActive": "2023-06-17"
+  },
+  {
+    "id": 6,
+    "name": "David Leaf",
+    "specialty": "Bonsai Trees",
+    "experience": "12 years",
+    "location": "San Francisco, CA",
+    "status": "Active Gardener",
+    "image": "https://randomuser.me/api/portraits/men/91.jpg",
+    "bio": "Patient teacher of the ancient art of bonsai cultivation.",
+    "lastActive": "2023-06-19"
+  },
+  {
+    "id": 7,
+    "name": "Jennifer Moss",
+    "specialty": "Indoor Plants",
+    "experience": "4 years",
+    "location": "Chicago, IL",
+    "status": "Inactive",
+    "image": "https://randomuser.me/api/portraits/women/25.jpg",
+    "bio": "Houseplant enthusiast currently on sabbatical.",
+    "lastActive": "2022-11-05"
+  },
+  {
+    "id": 8,
+    "name": "Robert Fern",
+    "specialty": "Hydroponics",
+    "experience": "7 years",
+    "location": "Denver, CO",
+    "status": "Inactive",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "bio": "Water-based growing systems expert - currently traveling.",
+    "lastActive": "2023-01-12"
+  },
+  {
+    "id": 9,
+    "name": "Lisa Petal",
+    "specialty": "Herb Gardens",
+    "experience": "2 years",
+    "location": "Boston, MA",
+    "status": "Inactive",
+    "image": "https://randomuser.me/api/portraits/women/63.jpg",
+    "bio": "Culinary herb specialist - taking time off for family reasons.",
+    "lastActive": "2023-03-22"
+  },
+  {
+    "id": 10,
+    "name": "Thomas Root",
+    "specialty": "Composting",
+    "experience": "9 years",
+    "location": "Atlanta, GA",
+    "status": "Inactive",
+    "image": "https://randomuser.me/api/portraits/men/33.jpg",
+    "bio": "Soil health expert - currently pursuing further education.",
+    "lastActive": "2022-12-30"
+  }
+]

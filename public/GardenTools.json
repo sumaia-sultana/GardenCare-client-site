@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Pruning Shears",
+    "image": "https://i.ibb.co/hxnZQQR2/Pruning.png",
+    "category": "Cutting Tools",
+    "price": 24.99,
+    "description": "Sharp bypass pruners for clean cuts on stems and branches up to 3/4 inch thick.",
+    "features": [
+      "Ergonomic non-slip handles",
+      "Precision-ground steel blades",
+      "Safety lock mechanism",
+      "Lifetime warranty"
+    ],
+    "bestFor": ["Deadheading flowers", "Pruning shrubs", "Trimming small branches"],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 2,
+    "name": "Watering Wand",
+    "image": "https://i.ibb.co/XrYDkxK5/watering-wand.jpg",
+    "category": "Watering Tools",
+    "price": 19.99,
+    "description": "30-inch aluminum watering wand with adjustable flow control.",
+    "features": [
+      "8-pattern brass nozzle",
+      "Ergonomic rubber grip",
+      "Shut-off valve control",
+      "Lightweight aluminum construction"
+    ],
+    "bestFor": ["Watering hanging baskets", "Gentle seedling watering", "Reaching distant plants"],
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "name": "Wheelbarrow",
+    "image": "https://i.ibb.co/Rp60TpQd/Wheelbarrow.png",
+    "category": "Hauling Tools",
+    "price": 89.99,
+    "description": "Heavy-duty 6 cubic foot wheelbarrow for moving soil, mulch, and plants.",
+    "features": [
+      "Pneumatic tire for easy rolling",
+      "Durable polyethylene tub",
+      "Steel frame with wooden handles",
+      "400 lb capacity"
+    ],
+    "bestFor": ["Moving soil and compost", "Transporting plants", "Hauling garden debris"],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 4,
+    "name": "Garden Trowel",
+    "image": "https://i.ibb.co/gbmRBM5Y/trowel.png",
+    "category": "Digging Tools",
+    "price": 15.49,
+    "description": "Sturdy stainless steel trowel for planting, transplanting, and potting.",
+    "features": [
+      "Rust-resistant stainless steel head",
+      "Comfortable ergonomic handle",
+      "Measurement markings on blade",
+      "Hanging hole for storage"
+    ],
+    "bestFor": ["Planting annuals", "Transplanting seedlings", "Mixing soil"],
+    "difficulty": "Beginner"
+  },
+  {
+    "id": 5,
+    "name": "Hori Hori Knife",
+    "image": "https://i.ibb.co/6c03WZrv/hori-trowel.png",
+    "category": "Multipurpose Tools",
+    "price": 32.95,
+    "description": "Japanese-style digging knife with sharp blade and measurement markings.",
+    "features": [
+      "7-inch carbon steel blade",
+      "One serrated and one straight edge",
+      "Depth measurements engraved",
+      "Leather sheath included"
+    ],
+    "bestFor": ["Dividing perennials", "Weeding", "Cutting roots", "Planting bulbs"],
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": 6,
+    "name": "Garden Hoe",
+    "image": "https://i.ibb.co/xqv5TTfm/Garden-hoe.png",
+    "category": "Cultivating Tools",
+    "price": 28.75,
+    "description": "Heavy-duty hoe for breaking up soil and removing weeds.",
+    "features": [
+      "Forged steel head",
+      "60-inch hardwood handle",
+      "Dual-purpose blade (chopping and scraping)",
+      "Weight-balanced design"
+    ],
+    "bestFor": ["Preparing planting beds", "Weeding between rows", "Breaking up compacted soil"],
+    "difficulty": "Medium"
+  }
+  
+]
