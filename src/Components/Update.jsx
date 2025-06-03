@@ -18,7 +18,7 @@ const Update = () => {
         const formData = new FormData(form);
         const updateTips = Object.fromEntries(formData.entries());
 
-        fetch(`http://localhost:3000/userstip/${_id}`, {
+        fetch(`https://assignment10-server-beryl.vercel.app/userstip/${_id}`, {
             method: 'PUT',
             headers: {
                 'content-type': 'application/json'

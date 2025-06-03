@@ -19,7 +19,7 @@ const MyTips = () => {
     }).then((result) => {
       if (result.isConfirmed) {
          
-        fetch(`http://localhost:3000/userstip/${_id}`, {
+        fetch(`https://assignment10-server-beryl.vercel.app/userstip/${_id}`, {
           method: 'DELETE',
            headers: {
             'Content-Type': 'application/json',

@@ -24,7 +24,7 @@ const ShareTips = () => {
         
          // sending data to server 
 
-         fetch('http://localhost:3000/userstip', {
+         fetch('https://assignment10-server-beryl.vercel.app/userstip', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

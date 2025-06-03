@@ -1,6 +1,7 @@
 import React, { use, useEffect, useState } from 'react';
 import { AuthContext } from '../Context/AuthContext';
 import { Navigate, useLocation } from 'react-router';
+import Loading from '../pages/Loading';
 
 const PrivateRoute = ({children}) => {
 
@@ -14,7 +15,7 @@ const PrivateRoute = ({children}) => {
   }, []);
 
   if (isChecking) {
-    return <div>Loading...</div>;
+    return <div><Loading/> </div>;
   }
 
   return user ? (

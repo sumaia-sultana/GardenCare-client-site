@@ -62,12 +62,12 @@ const router = createBrowserRouter([
     },
     {
      path: 'browsetips',
-     loader: () => fetch('http://localhost:3000/userstip'),
+     loader: () => fetch('https://assignment10-server-beryl.vercel.app/userstip'),
      Component: BrowseTips,
     },
     {
       path: '/userstip/:id',
-      loader: ({params}) => fetch(`http://localhost:3000/userstip/${params.id}`),
+      loader: ({params}) => fetch(`https://assignment10-server-beryl.vercel.app/userstip/${params.id}`),
       element: <PrivateRoute><TipsDetails/> </PrivateRoute> 
     },
      {
@@ -88,13 +88,13 @@ const router = createBrowserRouter([
      },
      {
       path:  'mytips/:email'  ,
-      loader: ({params}) => fetch(`http://localhost:3000/userstip/email/${params.email}`),
+      loader: ({params}) => fetch(`https://assignment10-server-beryl.vercel.app/userstip/email/${params.email}`),
       element: <PrivateRoute><MyTips/> </PrivateRoute>,
       hydrateFallbackElement: <Loading/> ,
      },
      {
       path:'update/:id',
-      loader: ({params}) => fetch(`http://localhost:3000/userstip/${params.id}`) ,
+      loader: ({params}) => fetch(`https://assignment10-server-beryl.vercel.app/userstip/${params.id}`) ,
       element:  <Update/>  
      },
      {

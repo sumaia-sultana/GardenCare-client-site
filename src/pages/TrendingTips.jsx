@@ -8,7 +8,7 @@ const TrendingTips = () => {
     const [trendingTips, setTrendingTips] = useState([]);
 
     useEffect(() => {
-    fetch('http://localhost:3000/trendingtips')
+    fetch('https://assignment10-server-beryl.vercel.app/trendingtips')
     .then(res => res.json())
     .then(data => setTrendingTips(data));
 }, []);

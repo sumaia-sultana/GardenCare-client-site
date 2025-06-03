@@ -14,7 +14,7 @@ const BrowseTips = () => {
   const [search, setSearch] = useState("")
   //   Searching Level
   useEffect(() => {
-      fetch(`http://localhost:3000/userstip?search=${search}`)
+      fetch(`https://assignment10-server-beryl.vercel.app/userstip?search=${search}`)
       .then((res) => res.json())
       .then((data) => setTips(data));
   }, [search])
@@ -33,7 +33,7 @@ const BrowseTips = () => {
                    });
                    return;
           }
-           fetch(`http://localhost:3000/userstip/${tip.email}`, {
+           fetch(`https://assignment10-server-beryl.vercel.app/userstip/${tip.email}`, {
                method: 'PATCH',
                headers: {
                    'content-type': 'application/json'
