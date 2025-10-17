@@ -10,6 +10,7 @@
 💾 Data-driven with JSON — All gardeners and gardening tools.
 
 🖼️ Interactive Modal Popups: Clickable cards open modals showing detailed information, images, features, and usage tips for each tool.
+
 💖 Like Feature: Users can like others’ gardening tips, helping highlight the most appreciated ones in the community.
 
 🌙 Dark/Light Theme Toggle.
